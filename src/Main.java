@@ -3,5 +3,6 @@ public class Main {
         String  mesaj = "Sayi : ";
         int say = 11;
         System.out.println(mesaj + say);
+        System.out.println(mesaj + say + say);
     }
 }
